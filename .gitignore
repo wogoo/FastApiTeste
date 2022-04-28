@@ -1,8 +1,8 @@
 # created by virtualenv automatically
 
 .env
-/lib/
-/alembic/
+lib/
+alembic/
 Scripts/
-Include/
-.idea/
+include/
+.idea
