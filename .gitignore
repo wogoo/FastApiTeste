@@ -3,5 +3,6 @@
 .env
 /lib/
 /alembic/
-/Scripts/
-/Include/
+Scripts/
+Include/
+.idea/
